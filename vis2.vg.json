@@ -1,6 +1,7 @@
 {
       "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
       "title": "Amount of deaths from disasters",
+      "width": "container",
       "params": [
             {
             "name" : "zoom_loc",
