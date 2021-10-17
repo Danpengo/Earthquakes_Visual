@@ -82,7 +82,7 @@
                     {"field": "properties.NAME", "type": "nominal", "title": "Country"},
                     {"field": "Total", "type": "quantitative", "title": "Deaths"}
                     ],
-              "color": {"field": "Total", "type": "quantitative","scale":{"type":"log","scheme": "reds","domain": [1, 20000000]},"legend":{"orient":"bottom-left","title":"Deaths"}}
+              "color": {"field": "Total", "type": "quantitative","scale":{"type":"log","scheme": "reds","domain": [1, 20000000]},"legend":{"title":"Deaths"}}
               }
           }
           ],
