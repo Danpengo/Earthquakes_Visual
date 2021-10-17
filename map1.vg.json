@@ -1,6 +1,6 @@
 {
  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
- "width": 800,
+ "width": "container",
  "height": 600,
  "title": "Earthquakes of magnitude 7 or higher",
       "params": [
