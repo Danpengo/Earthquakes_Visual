@@ -67,7 +67,9 @@
        "y":{
          "field": "Region",
          "type": "nominal",
-         "sort": "-x"
+         "sort": "-x",
+         "axis": {
+        "title": "false"}
      
        },
      
@@ -95,7 +97,7 @@
        {
 "mark": "bar"
        }, {
-         "mark": {"type": "text","align": "right","baseline": "left","dx": -25,"dy":3},
+         "mark": {"type": "text","align": "right","baseline": "left","dx": -4,"dy":3},
          "encoding": {"text": {"field": "Text", "type": "nominal"},"color":{"value": "black"},"opacity": {
  "condition": {
  "test": "datum['Region'] == 'South-Eastern Asia'",
