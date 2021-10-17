@@ -60,7 +60,7 @@
               {"field": "properties.NAME", "type": "nominal", "title": "Country"},
               {"field": {"repeat": "repeat"}}
               ],
-        "color": {"field": {"repeat": "repeat"}, "type": "quantitative","scale":{"type":"sqrt","scheme": "reds","domain": [0, 1100]}}
+        "color": {"field": {"repeat": "repeat"}, "type": "quantitative","scale":{"type":"sqrt","scheme": "reds","domain": [0, 1100]},"legend":{"title":"Subtype"}}
         }
     },
     {
