@@ -11,13 +11,14 @@
             "name" : "Look at ",
             "input" : "select",
             "options" : [
-            [200, [100, -10]],
             [200, [0, 0]],
-            [200, [0, 0]],
-            [200, [0, 0]],
-            [200, [0, 0]],
-            [200, [0, 0]],
-            [200, [0, 0]]],
+            [400, [-100, 50]],
+            [400, [-60, -25]],
+            [600, [35, 50]],
+            [400, [15, 2]],
+            [350, [110, 25]],
+            [1100, [50, 26]],
+            [600, [160, -25]]],
             "labels": [
             "All Regions",
             "North America",
@@ -26,7 +27,7 @@
             "Africa",
             "Asia",
             "Middle East",
-            "Pacific/Oceania"]}}
+            "Oceania"]}}
         ],
       "projection": {
             "type": "equirectangular","center": {"expr": "zoom_loc[1]"}, "scale":  {"expr": "zoom_loc[0]"} 
@@ -78,7 +79,8 @@
               
               "encoding": {
               "tooltip": [
-                    {"field": "properties.NAME", "type": "nominal", "title": "Country"}
+                    {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+                    {"field": "Total", "type": "quantitative", "title": "Deaths"}
                     ],
               "color": {"field": "Total", "type": "quantitative","scale":{"type":"log","scheme": "reds","domain": [1, 20000000]}}
               }
