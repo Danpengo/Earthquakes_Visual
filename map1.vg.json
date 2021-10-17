@@ -44,7 +44,7 @@
  },
  {
  "data": {
- "url": "https://raw.githubusercontent.com/Danpengo/HW9/main/Earthquakes.csv"
+ "url": "https://raw.githubusercontent.com/Danpengo/FIT3179_ASGN2/main/data/Earthquakes.csv"
  },
  
  "mark": {"type": "circle", "tooltip": {"content": "data"}},
