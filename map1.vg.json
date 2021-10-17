@@ -1,9 +1,37 @@
 {
  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
- "width": "container",
+ "width": 800,
  "height": 600,
  "title": "Earthquakes of magnitude 7 or higher",
- "projection": {"type": "equalEarth"},
+      "params": [
+            {
+            "name" : "zoom_loc",
+            "value" : [130,[0, 0]],
+            "bind" : {
+            "name" : "Look at ",
+            "input" : "select",
+            "options" : [
+            [130, [0, 0]],
+            [400, [-100, 50]],
+            [400, [-60, -25]],
+            [800, [15, 50]],
+            [400, [15, 2]],
+            [350, [110, 25]],
+            [1100, [50, 26]],
+            [450, [148, -25]]],
+            "labels": [
+            "All Regions",
+            "North America",
+            "South America",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Middle East",
+            "Oceania"]}}
+        ],
+      "projection": {
+            "type": "equalEarth","center": {"expr": "zoom_loc[1]"}, "scale":  {"expr": "zoom_loc[0]"} 
+            },
  "layer": [
  {
  "data": {
@@ -33,9 +61,9 @@
  "longitude": {"field": "Longitude", "type": "quantitative"},
  "latitude": {"field": "Latitude", "type": "quantitative"},
  "size": {
- "field": "Dis Mag Value", "type": "quantitative", "scale": {"domain": [7, 10]}
+ "field": "Dis Mag Value", "type": "quantitative", "scale": {"domain": [7, 10]},"legend":{"orient":"bottom-left","title":"Magnitude"}
  },
- "color": {"field": "Disaster Subtype", "type": "nominal"}
+ "color": {"field": "Disaster Subtype", "type": "nominal","legend":{"orient":"bottom-left","title":"Subtype"}}
  }
  }
  ]
