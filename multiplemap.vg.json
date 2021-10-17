@@ -45,7 +45,7 @@
                   "lookup": "properties.NAME",
                   "from": {
                   "data": {
-                  "url": "https://raw.githubusercontent.com/Danpengo/ASGN2/main/data/Map2.3.csv"
+                  "url": "https://raw.githubusercontent.com/Danpengo/FIT3179_ASGN2/main/data/Map2.3.csv"
                   },
                   "key": "Country",
                   "fields": ["Total", "Epidemic", "Drought", "Wildfire", "Earthquake", "Volcanic activity","Flood","Storm"]
