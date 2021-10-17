@@ -1,0 +1,88 @@
+{
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "title": "Amount of deaths from disasters",
+      "width": 1400,
+      "height": 600,
+      "params": [
+            {
+            "name" : "zoom_loc",
+            "value" : [[0, 0], 200],
+            "bind" : {
+            "name" : "Look at ",
+            "input" : "select",
+            "options" : [
+            [200, [100, -10]],
+            [200, [0, 0]],
+            [200, [0, 0]],
+            [200, [0, 0]],
+            [200, [0, 0]],
+            [200, [0, 0]],
+            [200, [0, 0]]],
+            "labels": [
+            "All Regions",
+            "North America",
+            "South America",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Middle East",
+            "Pacific/Oceania"]}}
+        ],
+      "projection": {
+            "type": "equirectangular","center": {"expr": "zoom_loc[1]"}, "scale":  {"expr": "zoom_loc[0]"} 
+            },
+      "layer": [
+      {
+      "data": {
+      "url":
+            "https://raw.githubusercontent.com/Danpengo/HW9/main/110m.topojson",
+      "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+
+      "transform": [
+      {"calculate": "'No data for ' + datum.properties.NAME",
+      "as": "note"}
+      ],
+      "mark": {
+      "type": "geoshape",
+      "fill": "#d4d2d2",
+      "stroke": "white",
+      "strokeWidth": 1
+      },
+      "encoding": {"tooltip": {"field": "note"}}
+      },
+      
+      {
+          "data": {
+              "url":"https://raw.githubusercontent.com/Danpengo/HW9/main/110m.topojson",
+              "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+              },
+              
+
+      
+              
+                  "transform": [
+                        {
+                        "lookup": "properties.NAME",
+                        "from": {
+                        "data": {
+                        "url": "https://raw.githubusercontent.com/Danpengo/ASGN2/main/data/MapBig1.csv"
+                        },
+                        "key": "Country",
+                        "fields": ["Total"]
+                        }
+                        }
+                        ],
+              
+              "mark": {"type": "geoshape", "tooltip": {"content": "data"}},
+              
+              "encoding": {
+              "tooltip": [
+                    {"field": "properties.NAME", "type": "nominal", "title": "Country"}
+                    ],
+              "color": {"field": "Total", "type": "quantitative","scale":{"type":"log","scheme": "reds","domain": [1, 20000000]}}
+              }
+          }
+          ],
+      "config": {}
+      }

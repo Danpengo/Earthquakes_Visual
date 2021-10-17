@@ -1,0 +1,1409 @@
+Country,Type,Deaths
+"""Korea, South""",Drought,0
+"""Korea, South""",Earthquake,0
+"""Korea, South""",Epidemic,179
+"""Korea, South""",Extreme temperature,46
+"""Korea, South""",Flood,4089
+"""Korea, South""",Landslide,405
+"""Korea, South""",Storm,4389
+"""Korea, South""",Wildfire,3
+"""Korea, South""",Total,9111
+Afghanistan,Drought,37
+Afghanistan,Earthquake,11553
+Afghanistan,Epidemic,3845
+Afghanistan,Extreme temperature,1934
+Afghanistan,Flood,5307
+Afghanistan,Insect infestation,0
+Afghanistan,Landslide,1822
+Afghanistan,Storm,505
+Afghanistan,Wildfire,0
+Afghanistan,Total,25003
+Albania,Drought,0
+Albania,Earthquake,626
+Albania,Epidemic,7
+Albania,Extreme temperature,82
+Albania,Flood,23
+Albania,Landslide,57
+Albania,Storm,8
+Albania,Wildfire,0
+Albania,Total,803
+Algeria,Drought,0
+Algeria,Earthquake,6771
+Algeria,Epidemic,1
+Algeria,Extreme temperature,48
+Algeria,Flood,4882
+Algeria,Insect infestation,0
+Algeria,Landslide,15
+Algeria,Storm,27
+Algeria,Wildfire,30
+Algeria,Total,11774
+American Samoa,Earthquake,34
+American Samoa,Flood,6
+American Samoa,Storm,90
+American Samoa,Total,130
+Angola,Drought,58
+Angola,Epidemic,5316
+Angola,Flood,803
+Angola,Landslide,13
+Angola,Total,6190
+Anguilla,Drought,0
+Anguilla,Epidemic,0
+Anguilla,Flood,0
+Anguilla,Storm,9
+Anguilla,Total,9
+Antigua and Barbuda,Drought,0
+Antigua and Barbuda,Storm,13
+Antigua and Barbuda,Total,13
+Argentina,Drought,8
+Argentina,Earthquake,10476
+Argentina,Epidemic,73
+Argentina,Extreme temperature,185
+Argentina,Flood,860
+Argentina,Landslide,103
+Argentina,Storm,298
+Argentina,Volcanic activity,0
+Argentina,Wildfire,32
+Argentina,Total,12035
+Armenia,Drought,0
+Armenia,Earthquake,2890
+Armenia,Extreme temperature,0
+Armenia,Flood,5
+Armenia,Landslide,0
+Armenia,Storm,0
+Armenia,Total,2895
+Australia,Drought,600
+Australia,Earthquake,12
+Australia,Epidemic,0
+Australia,Extreme temperature,509
+Australia,Flood,323
+Australia,Insect infestation,0
+Australia,Landslide,28
+Australia,Storm,248
+Australia,Wildfire,533
+Australia,Total,2253
+Austria,Earthquake,0
+Austria,Extreme temperature,358
+Austria,Flood,43
+Austria,Landslide,358
+Austria,Storm,38
+Austria,Total,797
+Azerbaijan,Drought,0
+Azerbaijan,Earthquake,119
+Azerbaijan,Extreme temperature,5
+Azerbaijan,Flood,19
+Azerbaijan,Landslide,11
+Azerbaijan,Total,154
+Azores Islands,Earthquake,79
+Azores Islands,Landslide,29
+Azores Islands,Storm,27
+Azores Islands,Total,135
+Bahamas,Flood,0
+Bahamas,Storm,450
+Bahamas,Total,450
+Bahrain,Epidemic,111
+Bahrain,Total,111
+Bangladesh,Drought,1900018
+Bangladesh,Earthquake,45
+Bangladesh,Epidemic,403203
+Bangladesh,Extreme temperature,2524
+Bangladesh,Flood,52987
+Bangladesh,Landslide,265
+Bangladesh,Storm,634922
+Bangladesh,Total,2993964
+Barbados,Drought,0
+Barbados,Earthquake,0
+Barbados,Flood,3
+Barbados,Storm,59
+Barbados,Total,62
+Belarus,Epidemic,13
+Belarus,Extreme temperature,54
+Belarus,Flood,2
+Belarus,Storm,5
+Belarus,Total,74
+Belgium,Drought,0
+Belgium,Earthquake,2
+Belgium,Epidemic,0
+Belgium,Extreme temperature,4719
+Belgium,Flood,28
+Belgium,Storm,99
+Belgium,Total,4848
+Belize,Extreme temperature,0
+Belize,Flood,1
+Belize,Storm,1859
+Belize,Total,1860
+Benin,Drought,0
+Benin,Epidemic,1369
+Benin,Flood,189
+Benin,Storm,0
+Benin,Wildfire,3
+Benin,Total,1561
+Bermuda,Storm,4
+Bermuda,Total,4
+Bhutan,Earthquake,12
+Bhutan,Epidemic,41
+Bhutan,Flood,222
+Bhutan,Storm,29
+Bhutan,Wildfire,0
+Bhutan,Total,304
+Bolivia (Plurinational State of),Drought,0
+Bolivia (Plurinational State of),Earthquake,100
+Bolivia (Plurinational State of),Epidemic,550
+Bolivia (Plurinational State of),Extreme temperature,37
+Bolivia (Plurinational State of),Flood,1243
+Bolivia (Plurinational State of),Landslide,334
+Bolivia (Plurinational State of),Storm,20
+Bolivia (Plurinational State of),Volcanic activity,0
+Bolivia (Plurinational State of),Wildfire,3
+Bolivia (Plurinational State of),Total,2287
+Bosnia and Herzegovina,Drought,0
+Bosnia and Herzegovina,Epidemic,0
+Bosnia and Herzegovina,Extreme temperature,7
+Bosnia and Herzegovina,Flood,30
+Bosnia and Herzegovina,Landslide,6
+Bosnia and Herzegovina,Storm,4
+Bosnia and Herzegovina,Total,47
+Botswana,Drought,0
+Botswana,Epidemic,655
+Botswana,Flood,43
+Botswana,Insect infestation,0
+Botswana,Storm,0
+Botswana,Total,698
+Brazil,Drought,20
+Brazil,Earthquake,2
+Brazil,Epidemic,2632
+Brazil,Extreme temperature,355
+Brazil,Flood,7989
+Brazil,Insect infestation,0
+Brazil,Landslide,1745
+Brazil,Storm,366
+Brazil,Wildfire,1
+Brazil,Total,13110
+Brunei Darussalam,Wildfire,0
+Brunei Darussalam,Total,0
+Bulgaria,Drought,0
+Bulgaria,Earthquake,131
+Bulgaria,Extreme temperature,76
+Bulgaria,Flood,82
+Bulgaria,Landslide,11
+Bulgaria,Storm,3
+Bulgaria,Wildfire,10
+Bulgaria,Total,313
+Burkina Faso,Drought,0
+Burkina Faso,Epidemic,17119
+Burkina Faso,Flood,185
+Burkina Faso,Insect infestation,0
+Burkina Faso,Total,17304
+Burundi,Drought,126
+Burundi,Earthquake,3
+Burundi,Epidemic,789
+Burundi,Flood,223
+Burundi,Landslide,54
+Burundi,Storm,23
+Burundi,Total,1218
+Cabo Verde,Drought,85000
+Cabo Verde,Epidemic,251
+Cabo Verde,Flood,3
+Cabo Verde,Insect infestation,0
+Cabo Verde,Storm,41
+Cabo Verde,Volcanic activity,0
+Cabo Verde,Total,85295
+Cambodia,Drought,0
+Cambodia,Epidemic,788
+Cambodia,Flood,1653
+Cambodia,Storm,82
+Cambodia,Total,2523
+Cameroon,Drought,0
+Cameroon,Epidemic,4129
+Cameroon,Flood,131
+Cameroon,Insect infestation,0
+Cameroon,Landslide,74
+Cameroon,Volcanic activity,1783
+Cameroon,Total,6117
+Canada,Drought,0
+Canada,Earthquake,27
+Canada,Epidemic,50562
+Canada,Extreme temperature,580
+Canada,Flood,51
+Canada,Landslide,144
+Canada,Mass movement (dry),161
+Canada,Storm,302
+Canada,Wildfire,119
+Canada,Total,51946
+Canary Is,Extreme temperature,13
+Canary Is,Flood,23
+Canary Is,Storm,45
+Canary Is,Wildfire,0
+Canary Is,Total,81
+Cayman Islands (the),Storm,2
+Cayman Islands (the),Total,2
+Central African Republic,Drought,0
+Central African Republic,Epidemic,981
+Central African Republic,Flood,16
+Central African Republic,Storm,8
+Central African Republic,Wildfire,1
+Central African Republic,Total,1006
+Chad,Drought,3000
+Chad,Epidemic,7108
+Chad,Flood,304
+Chad,Insect infestation,0
+Chad,Landslide,52
+Chad,Storm,38
+Chad,Total,10502
+Chile,Drought,0
+Chile,Earthquake,58592
+Chile,Epidemic,1
+Chile,Extreme temperature,8
+Chile,Flood,1245
+Chile,Landslide,251
+Chile,Storm,273
+Chile,Volcanic activity,110
+Chile,Wildfire,42
+Chile,Total,60522
+China,Drought,3503534
+China,Earthquake,652419
+China,Epidemic,1561498
+China,Extreme temperature,384
+China,Flood,6621907
+China,Insect infestation,0
+China,Landslide,5833
+China,Mass movement (dry),500
+China,Storm,175043
+China,Wildfire,314
+China,Total,12521432
+Colombia,Drought,0
+Colombia,Earthquake,3619
+Colombia,Epidemic,672
+Colombia,Flood,3610
+Colombia,Insect infestation,0
+Colombia,Landslide,3478
+Colombia,Mass movement (dry),247
+Colombia,Storm,72
+Colombia,Volcanic activity,22826
+Colombia,Wildfire,31
+Colombia,Total,34555
+Comoros,Drought,0
+Comoros,Earthquake,0
+Comoros,Epidemic,86
+Comoros,Flood,6
+Comoros,Storm,567
+Comoros,Volcanic activity,19
+Comoros,Total,678
+Congo (Kinshasa),Drought,0
+Congo (Kinshasa),Earthquake,53
+Congo (Kinshasa),Epidemic,16189
+Congo (Kinshasa),Flood,739
+Congo (Kinshasa),Landslide,434
+Congo (Kinshasa),Storm,49
+Congo (Kinshasa),Volcanic activity,347
+Congo (Kinshasa),Wildfire,11
+Congo (Kinshasa),Total,17822
+Congo (the),Drought,0
+Congo (the),Epidemic,4508
+Congo (the),Flood,48
+Congo (the),Landslide,154
+Congo (the),Total,4710
+Cook Islands,Epidemic,7
+Cook Islands,Storm,25
+Cook Islands,Total,32
+Costa Rica,Drought,0
+Costa Rica,Earthquake,2616
+Costa Rica,Epidemic,3
+Costa Rica,Flood,148
+Costa Rica,Landslide,7
+Costa Rica,Storm,117
+Costa Rica,Volcanic activity,104
+Costa Rica,Wildfire,0
+Costa Rica,Total,2995
+Côte d’Ivoire,Drought,0
+Côte d’Ivoire,Epidemic,717
+Côte d’Ivoire,Flood,197
+Côte d’Ivoire,Landslide,27
+Côte d’Ivoire,Total,941
+Croatia,Drought,0
+Croatia,Earthquake,9
+Croatia,Extreme temperature,840
+Croatia,Flood,4
+Croatia,Storm,2
+Croatia,Wildfire,13
+Croatia,Total,868
+Cuba,Drought,0
+Cuba,Earthquake,1
+Cuba,Epidemic,3
+Cuba,Flood,121
+Cuba,Storm,5057
+Cuba,Wildfire,0
+Cuba,Total,5182
+Cyprus,Drought,0
+Cyprus,Earthquake,42
+Cyprus,Epidemic,0
+Cyprus,Extreme temperature,61
+Cyprus,Storm,3
+Cyprus,Wildfire,0
+Cyprus,Total,106
+Czechia,Extreme temperature,480
+Czechia,Flood,100
+Czechia,Storm,11
+Czechia,Total,591
+Czechoslovakia,Extreme temperature,0
+Czechoslovakia,Flood,0
+Czechoslovakia,Landslide,24
+Czechoslovakia,Storm,0
+Czechoslovakia,Total,24
+Denmark,Drought,0
+Denmark,Storm,26
+Denmark,Total,26
+Djibouti,Drought,0
+Djibouti,Epidemic,92
+Djibouti,Flood,250
+Djibouti,Insect infestation,0
+Djibouti,Storm,2
+Djibouti,Total,344
+Dominica,Earthquake,0
+Dominica,Storm,2140
+Dominica,Total,2140
+Dominican Republic,Drought,0
+Dominican Republic,Earthquake,76
+Dominican Republic,Epidemic,395
+Dominican Republic,Flood,859
+Dominican Republic,Storm,4522
+Dominican Republic,Wildfire,0
+Dominican Republic,Total,5852
+Ecuador,Drought,0
+Ecuador,Earthquake,12012
+Ecuador,Epidemic,1015
+Ecuador,Flood,1011
+Ecuador,Landslide,1082
+Ecuador,Mass movement (dry),60
+Ecuador,Volcanic activity,6
+Ecuador,Wildfire,5
+Ecuador,Total,15191
+Egypt,Earthquake,596
+Egypt,Epidemic,10291
+Egypt,Extreme temperature,167
+Egypt,Flood,774
+Egypt,Mass movement (dry),132
+Egypt,Storm,152
+Egypt,Total,12112
+El Salvador,Drought,0
+El Salvador,Earthquake,3906
+El Salvador,Epidemic,522
+El Salvador,Extreme temperature,1
+El Salvador,Flood,683
+El Salvador,Landslide,86
+El Salvador,Storm,2910
+El Salvador,Volcanic activity,2
+El Salvador,Total,8110
+Equatorial Guinea,Epidemic,15
+Equatorial Guinea,Total,15
+Eritrea,Drought,0
+Eritrea,Flood,0
+Eritrea,Insect infestation,0
+Eritrea,Storm,3
+Eritrea,Total,3
+Estonia,Extreme temperature,11
+Estonia,Storm,0
+Estonia,Total,11
+Ethiopia,Drought,402367
+Ethiopia,Earthquake,54
+Ethiopia,Epidemic,11796
+Ethiopia,Flood,2116
+Ethiopia,Insect infestation,0
+Ethiopia,Landslide,115
+Ethiopia,Mass movement (dry),13
+Ethiopia,Volcanic activity,69
+Ethiopia,Wildfire,0
+Ethiopia,Total,416530
+Fiji,Drought,0
+Fiji,Earthquake,0
+Fiji,Epidemic,0
+Fiji,Flood,71
+Fiji,Storm,583
+Fiji,Total,654
+Finland,Flood,0
+Finland,Storm,0
+Finland,Total,0
+France,Drought,0
+France,Earthquake,58
+France,Epidemic,21
+France,Extreme temperature,27593
+France,Flood,322
+France,Landslide,297
+France,Storm,469
+France,Wildfire,112
+France,Total,28872
+French Guiana,Flood,0
+French Guiana,Landslide,10
+French Guiana,Total,10
+French Polynesia,Flood,0
+French Polynesia,Landslide,23
+French Polynesia,Storm,8
+French Polynesia,Total,31
+Gabon,Epidemic,116
+Gabon,Flood,1
+Gabon,Storm,0
+Gabon,Total,117
+Gambia,Drought,0
+Gambia,Epidemic,341
+Gambia,Flood,70
+Gambia,Insect infestation,0
+Gambia,Storm,9
+Gambia,Wildfire,0
+Gambia,Total,420
+Georgia,Drought,0
+Georgia,Earthquake,15
+Georgia,Flood,61
+Georgia,Storm,0
+Georgia,Total,76
+Germany,Earthquake,1
+Germany,Epidemic,0
+Germany,Extreme temperature,9424
+Germany,Flood,61
+Germany,Landslide,5
+Germany,Storm,222
+Germany,Total,9713
+Germany Dem Rep,Storm,0
+Germany Dem Rep,Total,0
+Germany Fed Rep,Earthquake,0
+Germany Fed Rep,Extreme temperature,0
+Germany Fed Rep,Flood,13
+Germany Fed Rep,Storm,488
+Germany Fed Rep,Wildfire,0
+Germany Fed Rep,Total,501
+Ghana,Drought,0
+Ghana,Earthquake,22
+Ghana,Epidemic,1274
+Ghana,Flood,517
+Ghana,Storm,20
+Ghana,Wildfire,4
+Ghana,Total,1837
+Greece,Drought,0
+Greece,Earthquake,1272
+Greece,Extreme temperature,1129
+Greece,Flood,123
+Greece,Storm,128
+Greece,Wildfire,206
+Greece,Total,2858
+Grenada,Drought,0
+Grenada,Flood,0
+Grenada,Storm,45
+Grenada,Total,45
+Guadeloupe,Earthquake,1
+Guadeloupe,Epidemic,0
+Guadeloupe,Flood,0
+Guadeloupe,Storm,2052
+Guadeloupe,Volcanic activity,0
+Guadeloupe,Total,2053
+Guam,Earthquake,0
+Guam,Storm,18
+Guam,Total,18
+Guatemala,Drought,41
+Guatemala,Earthquake,27726
+Guatemala,Epidemic,633
+Guatemala,Extreme temperature,6
+Guatemala,Flood,40922
+Guatemala,Landslide,678
+Guatemala,Mass movement (dry),59
+Guatemala,Storm,2553
+Guatemala,Volcanic activity,7461
+Guatemala,Wildfire,0
+Guatemala,Total,80079
+Guinea,Drought,12
+Guinea,Earthquake,275
+Guinea,Epidemic,3630
+Guinea,Flood,28
+Guinea,Landslide,7
+Guinea,Storm,4
+Guinea,Wildfire,0
+Guinea,Total,3956
+Guinea-Bissau,Drought,0
+Guinea-Bissau,Epidemic,3032
+Guinea-Bissau,Flood,5
+Guinea-Bissau,Insect infestation,0
+Guinea-Bissau,Storm,4
+Guinea-Bissau,Wildfire,3
+Guinea-Bissau,Total,3044
+Guyana,Drought,0
+Guyana,Flood,34
+Guyana,Total,34
+Haiti,Drought,0
+Haiti,Earthquake,222593
+Haiti,Epidemic,7168
+Haiti,Flood,4060
+Haiti,Landslide,262
+Haiti,Storm,15925
+Haiti,Total,250008
+Honduras,Drought,0
+Honduras,Earthquake,7
+Honduras,Epidemic,266
+Honduras,Flood,962
+Honduras,Landslide,2800
+Honduras,Mass movement (dry),10
+Honduras,Storm,24754
+Honduras,Wildfire,0
+Honduras,Total,28799
+Hong Kong,Drought,0
+Hong Kong,Epidemic,299
+Hong Kong,Extreme temperature,10
+Hong Kong,Flood,312
+Hong Kong,Landslide,212
+Hong Kong,Storm,23742
+Hong Kong,Wildfire,0
+Hong Kong,Total,24575
+Hungary,Drought,0
+Hungary,Earthquake,0
+Hungary,Extreme temperature,841
+Hungary,Flood,310
+Hungary,Storm,60
+Hungary,Total,1211
+Iceland,Earthquake,1
+Iceland,Flood,0
+Iceland,Landslide,50
+Iceland,Volcanic activity,0
+Iceland,Total,51
+India,Drought,4250320
+India,Earthquake,71616
+India,Epidemic,4543995
+India,Extreme temperature,17975
+India,Flood,75593
+India,Glacial lake outburst,234
+India,Insect infestation,0
+India,Landslide,5126
+India,Mass movement (dry),61
+India,Storm,166770
+India,Wildfire,30
+India,Total,9131720
+Indonesia,Drought,9340
+Indonesia,Earthquake,203431
+Indonesia,Epidemic,3966
+Indonesia,Flood,7327
+Indonesia,Landslide,2697
+Indonesia,Mass movement (dry),131
+Indonesia,Storm,2024
+Indonesia,Volcanic activity,13263
+Indonesia,Wildfire,319
+Indonesia,Total,242498
+Iran (Islamic Republic of),Drought,0
+Iran (Islamic Republic of),Earthquake,154266
+Iran (Islamic Republic of),Epidemic,372
+Iran (Islamic Republic of),Extreme temperature,158
+Iran (Islamic Republic of),Flood,8048
+Iran (Islamic Republic of),Insect infestation,0
+Iran (Islamic Republic of),Landslide,128
+Iran (Islamic Republic of),Storm,352
+Iran (Islamic Republic of),Wildfire,0
+Iran (Islamic Republic of),Total,163324
+Iraq,Drought,0
+Iraq,Earthquake,30
+Iraq,Epidemic,38
+Iraq,Flood,144
+Iraq,Total,212
+Ireland,Epidemic,2
+Ireland,Flood,5
+Ireland,Storm,40
+Ireland,Total,47
+Israel,Drought,0
+Israel,Earthquake,20
+Israel,Epidemic,12
+Israel,Extreme temperature,0
+Israel,Flood,36
+Israel,Landslide,20
+Israel,Storm,12
+Israel,Wildfire,44
+Israel,Total,144
+Italy,Drought,0
+Italy,Earthquake,115607
+Italy,Epidemic,3
+Italy,Extreme temperature,20173
+Italy,Flood,1116
+Italy,Landslide,2591
+Italy,Storm,318
+Italy,Volcanic activity,735
+Italy,Wildfire,21
+Italy,Total,140564
+Jamaica,Drought,0
+Jamaica,Earthquake,1200
+Jamaica,Epidemic,49
+Jamaica,Flood,730
+Jamaica,Landslide,53
+Jamaica,Mass movement (dry),40
+Jamaica,Storm,608
+Jamaica,Total,2680
+Japan,Drought,0
+Japan,Earthquake,188161
+Japan,Epidemic,1
+Japan,Extreme temperature,1048
+Japan,Flood,13513
+Japan,Landslide,1084
+Japan,Storm,34943
+Japan,Volcanic activity,578
+Japan,Wildfire,0
+Japan,Total,239328
+Jordan,Drought,0
+Jordan,Earthquake,268
+Jordan,Epidemic,4
+Jordan,Extreme temperature,15
+Jordan,Flood,345
+Jordan,Insect infestation,0
+Jordan,Storm,16
+Jordan,Total,648
+Kazakhstan,Earthquake,453
+Kazakhstan,Epidemic,7
+Kazakhstan,Extreme temperature,3
+Kazakhstan,Flood,64
+Kazakhstan,Landslide,48
+Kazakhstan,Storm,112
+Kazakhstan,Wildfire,0
+Kazakhstan,Total,687
+Kenya,Drought,196
+Kenya,Earthquake,1
+Kenya,Epidemic,4958
+Kenya,Flood,2039
+Kenya,Insect infestation,0
+Kenya,Landslide,153
+Kenya,Storm,50
+Kenya,Total,7397
+Kiribati,Drought,0
+Kiribati,Epidemic,17
+Kiribati,Flood,0
+Kiribati,Storm,3
+Kiribati,Total,20
+Korea (the Democratic People's Republic of),Drought,0
+Korea (the Democratic People's Republic of),Epidemic,4
+Korea (the Democratic People's Republic of),Extreme temperature,0
+Korea (the Democratic People's Republic of),Flood,2778
+Korea (the Democratic People's Republic of),Storm,235
+Korea (the Democratic People's Republic of),Total,3017
+Kuwait,Epidemic,0
+Kuwait,Flood,3
+Kuwait,Total,3
+Kyrgyzstan,Drought,0
+Kyrgyzstan,Earthquake,132
+Kyrgyzstan,Epidemic,22
+Kyrgyzstan,Extreme temperature,27
+Kyrgyzstan,Flood,4
+Kyrgyzstan,Landslide,273
+Kyrgyzstan,Storm,4
+Kyrgyzstan,Total,462
+Laos,Drought,0
+Laos,Epidemic,863
+Laos,Flood,666
+Laos,Storm,74
+Laos,Total,1603
+Latvia,Epidemic,0
+Latvia,Extreme temperature,86
+Latvia,Storm,6
+Latvia,Wildfire,0
+Latvia,Total,92
+Lebanon,Earthquake,136
+Lebanon,Flood,440
+Lebanon,Mass movement (dry),20
+Lebanon,Storm,48
+Lebanon,Wildfire,1
+Lebanon,Total,645
+Lesotho,Drought,0
+Lesotho,Epidemic,56
+Lesotho,Flood,66
+Lesotho,Storm,1
+Lesotho,Total,123
+Liberia,Drought,0
+Liberia,Epidemic,5434
+Liberia,Extreme temperature,0
+Liberia,Flood,14
+Liberia,Insect infestation,0
+Liberia,Mass movement (dry),46
+Liberia,Storm,0
+Liberia,Total,5494
+Libya,Earthquake,300
+Libya,Flood,20
+Libya,Insect infestation,0
+Libya,Total,320
+Lithuania,Drought,0
+Lithuania,Extreme temperature,92
+Lithuania,Flood,4
+Lithuania,Storm,8
+Lithuania,Total,104
+Luxembourg,Extreme temperature,170
+Luxembourg,Flood,0
+Luxembourg,Storm,0
+Luxembourg,Total,170
+Macao,Epidemic,0
+Macao,Storm,10
+Macao Total,,10
+Macedonia,Drought,0
+Macedonia,Earthquake,0
+Macedonia,Epidemic,0
+Macedonia,Extreme temperature,34
+Macedonia,Flood,32
+Macedonia,Storm,1
+Macedonia,Wildfire,1
+Macedonia,Total,68
+Madagascar,Drought,200
+Madagascar,Epidemic,1992
+Madagascar,Flood,127
+Madagascar,Insect infestation,0
+Madagascar,Storm,2835
+Madagascar,Total,5154
+Malawi,Drought,500
+Malawi,Earthquake,13
+Malawi,Epidemic,1687
+Malawi,Flood,948
+Malawi,Landslide,8
+Malawi,Storm,16
+Malawi,Total,3172
+Malaysia,Drought,0
+Malaysia,Earthquake,104
+Malaysia,Epidemic,540
+Malaysia,Flood,356
+Malaysia,Landslide,96
+Malaysia,Mass movement (dry),72
+Malaysia,Storm,296
+Malaysia,Wildfire,0
+Malaysia,Total,1464
+Maldives,Earthquake,102
+Maldives,Epidemic,223
+Maldives,Flood,0
+Maldives,Storm,0
+Maldives,Total,325
+Mali,Drought,0
+Mali,Epidemic,3925
+Mali,Flood,157
+Mali,Insect infestation,0
+Mali Total,,4082
+Marshall Islands,Drought,0
+Marshall Islands,Epidemic,6
+Marshall Islands,Flood,0
+Marshall Islands,Storm,0
+Marshall Islands,Total,6
+Martinique,Earthquake,1
+Martinique,Epidemic,13
+Martinique,Storm,82
+Martinique,Volcanic activity,30000
+Martinique,Total,30096
+Mauritania,Drought,0
+Mauritania,Epidemic,185
+Mauritania,Flood,65
+Mauritania,Insect infestation,0
+Mauritania,Storm,23
+Mauritania,Total,273
+Mauritius,Drought,0
+Mauritius,Epidemic,0
+Mauritius,Flood,11
+Mauritius,Storm,70
+Mauritius,Total,81
+Mexico,Drought,0
+Mexico,Earthquake,12180
+Mexico,Epidemic,68
+Mexico,Extreme temperature,1188
+Mexico,Flood,4388
+Mexico,Landslide,332
+Mexico,Storm,5574
+Mexico,Volcanic activity,1120
+Mexico,Wildfire,110
+Mexico,Total,24960
+Micronesia (Federated States of),Drought,0
+Micronesia (Federated States of),Epidemic,19
+Micronesia (Federated States of),Flood,0
+Micronesia (Federated States of),Storm,58
+Micronesia (Federated States of),Total,77
+Moldova,Drought,2
+Moldova,Epidemic,0
+Moldova,Extreme temperature,23
+Moldova,Flood,61
+Moldova,Storm,3
+Moldova,Total,89
+Mongolia,Drought,0
+Mongolia,Earthquake,1200
+Mongolia,Epidemic,8
+Mongolia,Extreme temperature,5
+Mongolia,Flood,166
+Mongolia,Landslide,17
+Mongolia,Storm,143
+Mongolia,Wildfire,25
+Mongolia,Total,1564
+Montenegro,Extreme temperature,1
+Montenegro,Flood,0
+Montenegro,Wildfire,0
+Montenegro,Total,1
+Montserrat,Storm,11
+Montserrat,Volcanic activity,32
+Montserrat,Total,43
+Morocco,Drought,0
+Morocco,Earthquake,12739
+Morocco,Epidemic,200
+Morocco,Extreme temperature,0
+Morocco,Flood,1716
+Morocco,Insect infestation,0
+Morocco,Landslide,16
+Morocco,Mass movement (dry),31
+Morocco,Storm,64
+Morocco,Total,14766
+Mozambique,Drought,100068
+Mozambique,Earthquake,4
+Mozambique,Epidemic,3081
+Mozambique,Flood,2392
+Mozambique,Insect infestation,0
+Mozambique,Landslide,104
+Mozambique,Storm,1362
+Mozambique,Wildfire,49
+Mozambique,Total,107060
+Myanmar,Earthquake,788
+Myanmar,Epidemic,74
+Myanmar,Flood,902
+Myanmar,Landslide,405
+Myanmar,Mass movement (dry),17
+Myanmar,Storm,144698
+Myanmar,Wildfire,8
+Myanmar,Total,146892
+Namibia,Drought,0
+Namibia,Epidemic,291
+Namibia,Flood,264
+Namibia,Total,555
+Nepal,Drought,0
+Nepal,Earthquake,9865
+Nepal,Epidemic,4568
+Nepal,Extreme temperature,267
+Nepal,Flood,7700
+Nepal,Landslide,1894
+Nepal,Mass movement (dry),150
+Nepal,Storm,208
+Nepal,Wildfire,99
+Nepal,Total,24751
+Netherlands,Earthquake,0
+Netherlands,Epidemic,13
+Netherlands,Extreme temperature,2766
+Netherlands,Flood,2001
+Netherlands,Storm,39
+Netherlands,Total,4819
+Netherlands (the),Storm,13
+Netherlands (the),Total,13
+New Caledonia,Epidemic,0
+New Caledonia,Storm,20
+New Caledonia,Total,20
+New Zealand,Drought,0
+New Zealand,Earthquake,461
+New Zealand,Epidemic,6700
+New Zealand,Extreme temperature,0
+New Zealand,Flood,32
+New Zealand,Landslide,0
+New Zealand,Storm,65
+New Zealand,Volcanic activity,171
+New Zealand,Wildfire,0
+New Zealand,Total,7429
+Nicaragua,Drought,0
+Nicaragua,Earthquake,12688
+Nicaragua,Epidemic,122
+Nicaragua,Flood,515
+Nicaragua,Landslide,29
+Nicaragua,Storm,3955
+Nicaragua,Volcanic activity,1
+Nicaragua,Wildfire,0
+Nicaragua,Total,17310
+Niger,Animal accident,12
+Niger,Drought,85000
+Niger,Epidemic,110066
+Niger,Flood,639
+Niger,Insect infestation,0
+Niger,Storm,4
+Niger,Total,195721
+Nigeria,Drought,0
+Nigeria,Epidemic,26508
+Nigeria,Extreme temperature,78
+Nigeria,Flood,2027
+Nigeria,Insect infestation,0
+Nigeria,Landslide,32
+Nigeria,Storm,254
+Nigeria,Total,28899
+Niue,Epidemic,1
+Niue,Storm,1
+Niue,Total,2
+Northern Mariana Islands (the),Storm,5
+Northern Mariana Islands (the),Volcanic activity,0
+Northern Mariana Islands (the),Total,5
+Norway,Flood,1
+Norway,Landslide,84
+Norway,Storm,4
+Norway,Total,89
+Oman,Flood,14
+Oman,Storm,282
+Oman,Total,296
+Pakistan,Drought,220
+Pakistan,Earthquake,144116
+Pakistan,Epidemic,403
+Pakistan,Extreme temperature,2954
+Pakistan,Flood,18105
+Pakistan,Insect infestation,0
+Pakistan,Landslide,805
+Pakistan,Mass movement (dry),63
+Pakistan,Storm,12141
+Pakistan,Total,178807
+Palau,Epidemic,0
+Palau,Storm,0
+Palau,Total,0
+"Palestine, State of",Epidemic,0
+"Palestine, State of",Extreme temperature,3
+"Palestine, State of",Flood,5
+"Palestine, State of",Storm,5
+"Palestine, State of",Total,13
+Panama,Drought,0
+Panama,Earthquake,32
+Panama,Epidemic,101
+Panama,Flood,218
+Panama,Storm,143
+Panama,Wildfire,0
+Panama,Total,494
+Papua New Guinea,Drought,84
+Papua New Guinea,Earthquake,5450
+Papua New Guinea,Epidemic,448
+Papua New Guinea,Flood,86
+Papua New Guinea,Landslide,527
+Papua New Guinea,Mass movement (dry),86
+Papua New Guinea,Storm,219
+Papua New Guinea,Volcanic activity,3515
+Papua New Guinea,Wildfire,0
+Papua New Guinea,Total,10415
+Paraguay,Drought,16
+Paraguay,Epidemic,97
+Paraguay,Extreme temperature,20
+Paraguay,Flood,199
+Paraguay,Storm,40
+Paraguay,Wildfire,8
+Paraguay,Total,380
+Peru,Drought,0
+Peru,Earthquake,70788
+Peru,Epidemic,10739
+Peru,Extreme temperature,2020
+Peru,Flood,2243
+Peru,Insect infestation,0
+Peru,Landslide,8564
+Peru,Mass movement (dry),2000
+Peru,Storm,653
+Peru,Volcanic activity,0
+Peru,Wildfire,0
+Peru,Total,97007
+Philippines,Drought,8
+Philippines,Earthquake,9927
+Philippines,Epidemic,2627
+Philippines,Flood,3670
+Philippines,Insect infestation,0
+Philippines,Landslide,2451
+Philippines,Mass movement (dry),361
+Philippines,Storm,49805
+Philippines,Volcanic activity,2997
+Philippines,Wildfire,2
+Philippines,Total,71848
+Poland,Drought,0
+Poland,Earthquake,0
+Poland,Extreme temperature,2085
+Poland,Flood,115
+Poland,Storm,143
+Poland,Wildfire,35
+Poland,Total,2378
+Portugal,Drought,0
+Portugal,Earthquake,32
+Portugal,Extreme temperature,3199
+Portugal,Flood,597
+Portugal,Storm,53
+Portugal,Wildfire,206
+Portugal,Total,4087
+Puerto Rico,Drought,0
+Puerto Rico,Earthquake,120
+Puerto Rico,Flood,583
+Puerto Rico,Landslide,126
+Puerto Rico,Storm,645
+Puerto Rico,Total,1474
+Qatar,Flood,0
+Qatar,Total,0
+Réunion,Epidemic,0
+Réunion,Landslide,10
+Réunion,Storm,229
+Réunion,Volcanic activity,0
+Réunion,Total,239
+Romania,Drought,0
+Romania,Earthquake,2630
+Romania,Epidemic,0
+Romania,Extreme temperature,531
+Romania,Flood,1718
+Romania,Landslide,0
+Romania,Storm,59
+Romania,Total,4938
+Russia,Drought,0
+Russia,Earthquake,2019
+Russia,Epidemic,33
+Russia,Extreme temperature,57914
+Russia,Flood,825
+Russia,Impact,0
+Russia,Insect infestation,0
+Russia,Landslide,474
+Russia,Storm,228
+Russia,Wildfire,169
+Russia,Total,61662
+Rwanda,Drought,237
+Rwanda,Earthquake,81
+Rwanda,Epidemic,322
+Rwanda,Flood,444
+Rwanda,Landslide,117
+Rwanda,Storm,3
+Rwanda,Total,1204
+Saint Barthélemy,Storm,4
+Saint Barthélemy,Total,4
+"Saint Helena, Ascension and Tristan da Cunha",Storm,0
+"Saint Helena, Ascension and Tristan da Cunha Total",,0
+Saint Kitts and Nevis,Flood,0
+Saint Kitts and Nevis,Storm,6
+Saint Kitts and Nevis,Total,6
+Saint Lucia,Drought,0
+Saint Lucia,Earthquake,0
+Saint Lucia,Epidemic,0
+Saint Lucia,Flood,6
+Saint Lucia,Landslide,0
+Saint Lucia,Storm,38
+Saint Lucia,Total,44
+Saint Martin (French Part),Storm,7
+Saint Martin (French Part),Total,7
+Saint Vincent and the Grenadines,Drought,0
+Saint Vincent and the Grenadines,Epidemic,6
+Saint Vincent and the Grenadines,Flood,15
+Saint Vincent and the Grenadines,Storm,128
+Saint Vincent and the Grenadines,Volcanic activity,1567
+Saint Vincent and the Grenadines,Total,1716
+Samoa,Drought,0
+Samoa,Earthquake,148
+Samoa,Epidemic,39
+Samoa,Flood,0
+Samoa,Storm,303
+Samoa,Wildfire,0
+Samoa,Total,490
+Sao Tome and Principe,Drought,0
+Sao Tome and Principe,Epidemic,206
+Sao Tome and Principe,Total,206
+Saudi Arabia,Epidemic,168
+Saudi Arabia,Flood,476
+Saudi Arabia,Storm,3
+Saudi Arabia,Total,647
+Senegal,Drought,0
+Senegal,Epidemic,1268
+Senegal,Flood,98
+Senegal,Insect infestation,0
+Senegal,Storm,189
+Senegal,Total,1555
+Serbia,Earthquake,2
+Serbia,Extreme temperature,36
+Serbia,Flood,58
+Serbia,Total,96
+Serbia Montenegro,Earthquake,1
+Serbia Montenegro,Epidemic,0
+Serbia Montenegro,Extreme temperature,6
+Serbia Montenegro,Flood,14
+Serbia Montenegro,Storm,0
+Serbia Montenegro,Wildfire,0
+Serbia Montenegro,Total,21
+Seychelles,Earthquake,3
+Seychelles,Epidemic,0
+Seychelles,Flood,5
+Seychelles,Storm,0
+Seychelles,Total,8
+Sierra Leone,Epidemic,5359
+Sierra Leone,Flood,183
+Sierra Leone,Landslide,1118
+Sierra Leone,Storm,74
+Sierra Leone,Wildfire,0
+Sierra Leone,Total,6734
+Singapore,Epidemic,36
+Singapore,Total,36
+Sint Maarten (Dutch part),Storm,4
+Sint Maarten (Dutch part),Total,4
+Slovakia,Extreme temperature,128
+Slovakia,Flood,66
+Slovakia,Storm,3
+Slovakia,Wildfire,6
+Slovakia,Total,203
+Slovenia,Earthquake,1
+Slovenia,Extreme temperature,290
+Slovenia,Flood,3
+Slovenia,Storm,7
+Slovenia,Total,301
+Solomon Islands,Drought,0
+Solomon Islands,Earthquake,365
+Solomon Islands,Epidemic,8
+Solomon Islands,Flood,70
+Solomon Islands,Storm,360
+Solomon Islands,Volcanic activity,0
+Solomon Islands,Total,803
+Somalia,Drought,39673
+Somalia,Earthquake,298
+Somalia,Epidemic,6828
+Somalia,Flood,2925
+Somalia,Insect infestation,0
+Somalia,Storm,260
+Somalia,Total,49984
+South Africa,Drought,0
+South Africa,Earthquake,37
+South Africa,Epidemic,336
+South Africa,Extreme temperature,63
+South Africa,Flood,1376
+South Africa,Landslide,34
+South Africa,Storm,313
+South Africa,Wildfire,137
+South Africa,Total,2296
+South Sudan,Drought,0
+South Sudan,Epidemic,286
+South Sudan,Flood,166
+South Sudan,Wildfire,50
+South Sudan,Total,502
+Soviet Union,Drought,1200000
+Soviet Union,Earthquake,144057
+Soviet Union,Epidemic,2500000
+Soviet Union,Flood,148
+Soviet Union,Landslide,12325
+Soviet Union,Mass movement (dry),102
+Soviet Union,Storm,464
+Soviet Union,Volcanic activity,0
+Soviet Union,Wildfire,0
+Soviet Union,Total,3857096
+Spain,Drought,0
+Spain,Earthquake,21
+Spain,Epidemic,2
+Spain,Extreme temperature,15627
+Spain,Flood,1340
+Spain,Landslide,84
+Spain,Storm,185
+Spain,Wildfire,74
+Spain,Total,17333
+Sri Lanka,Drought,0
+Sri Lanka,Earthquake,35399
+Sri Lanka,Epidemic,1043
+Sri Lanka,Flood,2013
+Sri Lanka,Landslide,360
+Sri Lanka,Storm,1220
+Sri Lanka,Total,40035
+Sudan,Drought,150000
+Sudan,Earthquake,3
+Sudan,Epidemic,12290
+Sudan,Extreme temperature,16
+Sudan,Flood,1366
+Sudan,Insect infestation,0
+Sudan,Storm,53
+Sudan,Wildfire,47
+Sudan,Total,163775
+Suriname,Flood,5
+Suriname,Total,5
+Swaziland,Drought,500
+Swaziland,Epidemic,142
+Swaziland,Flood,11
+Swaziland,Storm,54
+Swaziland,Wildfire,2
+Swaziland,Total,709
+Sweden,Epidemic,0
+Sweden,Extreme temperature,0
+Sweden,Flood,11
+Sweden,Landslide,13
+Sweden,Storm,19
+Sweden,Wildfire,0
+Sweden,Total,43
+Switzerland,Epidemic,0
+Switzerland,Extreme temperature,1050
+Switzerland,Flood,10
+Switzerland,Landslide,295
+Switzerland,Mass movement (dry),8
+Switzerland,Storm,28
+Switzerland,Total,1391
+Syrian Arab Republic,Drought,0
+Syrian Arab Republic,Epidemic,88
+Syrian Arab Republic,Flood,9
+Syrian Arab Republic,Landslide,80
+Syrian Arab Republic,Storm,45
+Syrian Arab Republic,Wildfire,3
+Syrian Arab Republic,Total,225
+Taiwan (Province of China),Earthquake,10856
+Taiwan (Province of China),Epidemic,91
+Taiwan (Province of China),Extreme temperature,85
+Taiwan (Province of China),Flood,119
+Taiwan (Province of China),Landslide,14
+Taiwan (Province of China),Storm,5817
+Taiwan (Province of China),Total,16982
+Tajikistan,Drought,0
+Tajikistan,Earthquake,286
+Tajikistan,Epidemic,192
+Tajikistan,Extreme temperature,1
+Tajikistan,Flood,1624
+Tajikistan,Insect infestation,0
+Tajikistan,Landslide,378
+Tajikistan,Mass movement (dry),12
+Tajikistan,Storm,0
+Tajikistan,Total,2493
+"Tanzania, United Republic of",Drought,0
+"Tanzania, United Republic of",Earthquake,36
+"Tanzania, United Republic of",Epidemic,9489
+"Tanzania, United Republic of",Flood,876
+"Tanzania, United Republic of",Insect infestation,0
+"Tanzania, United Republic of",Landslide,13
+"Tanzania, United Republic of",Storm,51
+"Tanzania, United Republic of",Wildfire,0
+"Tanzania, United Republic of",Total,10465
+Thailand,Drought,0
+Thailand,Earthquake,8347
+Thailand,Epidemic,241
+Thailand,Extreme temperature,77
+Thailand,Flood,4168
+Thailand,Landslide,47
+Thailand,Storm,1737
+Thailand,Wildfire,0
+Thailand,Total,14617
+Timor-Leste,Drought,0
+Timor-Leste,Earthquake,0
+Timor-Leste,Epidemic,24
+Timor-Leste,Flood,8
+Timor-Leste,Storm,0
+Timor-Leste,Total,32
+Togo,Drought,0
+Togo,Epidemic,1116
+Togo,Flood,83
+Togo,Storm,0
+Togo,Total,1199
+Tokelau,Storm,0
+Tokelau,Total,0
+Tonga,Drought,0
+Tonga,Earthquake,10
+Tonga,Epidemic,0
+Tonga,Storm,14
+Tonga,Volcanic activity,0
+Tonga,Total,24
+Trinidad and Tobago,Drought,0
+Trinidad and Tobago,Earthquake,0
+Trinidad and Tobago,Flood,5
+Trinidad and Tobago,Landslide,2
+Trinidad and Tobago,Storm,40
+Trinidad and Tobago,Volcanic activity,0
+Trinidad and Tobago,Total,47
+Tunisia,Drought,0
+Tunisia,Earthquake,13
+Tunisia,Flood,981
+Tunisia,Insect infestation,0
+Tunisia,Wildfire,0
+Tunisia,Total,994
+Turkey,Earthquake,94013
+Turkey,Epidemic,613
+Turkey,Extreme temperature,100
+Turkey,Flood,1401
+Turkey,Landslide,504
+Turkey,Mass movement (dry),261
+Turkey,Storm,100
+Turkey,Wildfire,15
+Turkey,Total,97007
+Turkmenistan,Earthquake,11
+Turkmenistan,Flood,0
+Turkmenistan,Total,11
+Turks and Caicos Islands,Storm,4
+Turks and Caicos Islands,Total,4
+Tuvalu,Drought,0
+Tuvalu,Storm,6
+Tuvalu,Total,6
+Uganda,Drought,194
+Uganda,Earthquake,115
+Uganda,Epidemic,203698
+Uganda,Flood,439
+Uganda,Insect infestation,0
+Uganda,Landslide,591
+Uganda,Storm,31
+Uganda,Total,205068
+Ukraine,Drought,0
+Ukraine,Epidemic,275
+Ukraine,Extreme temperature,1102
+Ukraine,Flood,90
+Ukraine,Storm,21
+Ukraine,Wildfire,16
+Ukraine,Total,1504
+United Arab Emirates,Flood,0
+United Arab Emirates,Total,0
+United Kingdom,Earthquake,0
+United Kingdom,Epidemic,71
+United Kingdom,Extreme temperature,3640
+United Kingdom,Flood,94
+United Kingdom,Fog,4000
+United Kingdom,Landslide,140
+United Kingdom,Storm,359
+United Kingdom,Total,8304
+United States of America,Drought,45
+United States of America,Earthquake,1482
+United States of America,Epidemic,317
+United States of America,Extreme temperature,5201
+United States of America,Flood,3024
+United States of America,Landslide,679
+United States of America,Storm,31010
+United States of America,Volcanic activity,90
+United States of America,Wildfire,1482
+United States of America,Total,43330
+Uruguay,Drought,0
+Uruguay,Extreme temperature,11
+Uruguay,Flood,20
+Uruguay,Storm,11
+Uruguay,Total,42
+Uzbekistan,Drought,0
+Uzbekistan,Earthquake,22
+Uzbekistan,Epidemic,40
+Uzbekistan,Flood,4
+Uzbekistan,Landslide,24
+Uzbekistan,Mass movement (dry),1
+Uzbekistan,Total,91
+Vanuatu,Earthquake,12
+Vanuatu,Epidemic,12
+Vanuatu,Flood,0
+Vanuatu,Landslide,1
+Vanuatu,Storm,231
+Vanuatu,Volcanic activity,0
+Vanuatu,Total,256
+Venezuela (Bolivarian Republic of),Drought,0
+Venezuela (Bolivarian Republic of),Earthquake,423
+Venezuela (Bolivarian Republic of),Epidemic,162
+Venezuela (Bolivarian Republic of),Flood,30407
+Venezuela (Bolivarian Republic of),Landslide,164
+Venezuela (Bolivarian Republic of),Storm,124
+Venezuela (Bolivarian Republic of),Total,31280
+Viet Nam,Drought,0
+Viet Nam,Epidemic,1209
+Viet Nam,Flood,6015
+Viet Nam,Insect infestation,0
+Viet Nam,Landslide,330
+Viet Nam,Storm,19680
+Viet Nam,Wildfire,0
+Viet Nam,Total,27234
+Virgin Island (British),Storm,9
+Virgin Island (British),Total,9
+Virgin Island (U.S.),Storm,17
+Virgin Island (U.S.),Total,17
+Wallis and Futuna,Earthquake,5
+Wallis and Futuna,Storm,1
+Wallis and Futuna,Total,6
+Yemen,Earthquake,10
+Yemen,Epidemic,1013
+Yemen,Flood,1005
+Yemen,Landslide,96
+Yemen,Storm,105
+Yemen,Volcanic activity,6
+Yemen,Total,2235
+Yemen Arab Rep,Drought,0
+Yemen Arab Rep,Earthquake,2707
+Yemen Arab Rep,Flood,150
+Yemen Arab Rep,Insect infestation,0
+Yemen Arab Rep,Total,2857
+Yemen P Dem Rep,Drought,0
+Yemen P Dem Rep,Flood,507
+Yemen P Dem Rep,Total,507
+Yugoslavia,Drought,0
+Yugoslavia,Earthquake,1245
+Yugoslavia,Epidemic,35
+Yugoslavia,Extreme temperature,38
+Yugoslavia,Flood,95
+Yugoslavia,Wildfire,0
+Yugoslavia,Total,1413
+Zambia,Drought,0
+Zambia,Epidemic,1333
+Zambia,Flood,78
+Zambia,Insect infestation,0
+Zambia,Landslide,9
+Zambia,Total,1420
+Zimbabwe,Drought,0
+Zimbabwe,Epidemic,6349
+Zimbabwe,Flood,313
+Zimbabwe,Storm,942
+Zimbabwe,Total,7604
