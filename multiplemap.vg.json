@@ -13,7 +13,7 @@
 {
 "data": {
 "url":
-      "https://raw.githubusercontent.com/Danpengo/HW9/main/110m.topojson",
+      "https://raw.githubusercontent.com/Danpengo/FIT3179_ASGN2/main/data/110m.topojson",
 "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
 },
 "transform": [
@@ -32,7 +32,7 @@
 },
 {
     "data": {
-        "url":"https://raw.githubusercontent.com/Danpengo/HW9/main/110m.topojson",
+        "url":"https://raw.githubusercontent.com/Danpengo/FIT3179_ASGN2/main/data/110m.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
         },
         
