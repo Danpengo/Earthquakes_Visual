@@ -34,18 +34,7 @@
            ],
            "name": "Continent Selection:    "
            }
-           },
-            {
-                 "name": "Year_selection",
-                 "value": 2020,
-                 "bind": {
-                 "input": "range",
-                 "min": 1900,
-                 "max": 2020,
-                 "step": 1,
-                 "name": "Year Selection: "
-                 }
-                 }   
+           }  
            ],
           
      "transform":[
