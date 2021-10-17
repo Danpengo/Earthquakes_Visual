@@ -1,7 +1,7 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "title": "Amount of different types of disasters",
-"width": "container",
+"width": 289,
 "repeat": ["Total", "Epidemic", "Drought", "Wildfire", "Earthquake", "Volcanic activity","Flood","Storm"],
 "columns": 4,
 "spec": {
