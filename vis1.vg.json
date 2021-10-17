@@ -1,14 +1,16 @@
 {
       "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+      "title": "Deaths per Disaster Type",
       "width": "container",
-      "height": 300,
-      "title": "[PLACEHOLDER]",
-     
+      "height": 400,
       "data": {
       "url": "https://raw.githubusercontent.com/Danpengo/FIT3179_ASGN2/main/data/Vis1.csv"
       },
      
-
+      
+      
+     
       "params": [
            {
            "name": "Continent_selection",
@@ -33,23 +35,21 @@
            "name": "Continent Selection:    "
            }
            },
-           {
+            {
                  "name": "Year_selection",
                  "value": 2020,
                  "bind": {
                  "input": "range",
                  "min": 1900,
-                 "max": 2010,
+                 "max": 2020,
                  "step": 1,
                  "name": "Year Selection: "
                  }
-                 }
-                
+                 }   
            ],
           
      "transform":[
-           {"filter": "Continent_selection == null || datum.Continent == Continent_selection"},
-           {"filter": "datum.Year == Year_selection"}
+           {"filter": "Continent_selection == null || datum.Continent == Continent_selection"}
      
      ],
      
@@ -57,38 +57,24 @@
       "mark": {"type": "bar", "tooltip": {"content": "data"}},
       
       "encoding": {
-       "x":{
-         "aggregate": "count",
-         "field": "*",
-         "type": "quantitative"
-       },
        "y":{
-         "field": "Region",
+         "aggregate": "sum",
+         "field": "Total Deaths",
+         "type": "quantitative",
+         "scale":{"type":"log","domain": [1, 20000000]}
+
+       },
+       "x":{
+         "field": "Disaster Type",
          "type": "nominal",
-         "sort": "-x"
+         "sort": "-y"
      
        },
-     
-     
-     
+       "color": {"field": "Region","aggregate": "count","scale":{"scheme": "oranges","reverse":true},"legend":{"title":"Number of Disasters"}},
        "tooltip": [
-             {"field": "Continent", "type": "nominal"},
-             {"field": "Year", "type": "quantitative"},
+             {"field": "Total Deaths", "aggregate": "sum","type": "nominal"},
              {"field": "Region", "aggregate": "count", "type": "quantitative"}
              ]
-      },
-     "layer": [{
-         "mark": "bar"
-       }, {
-         "mark": {
-           "type": "text",
-           "align": "right",
-           "baseline": "middle",
-           "dx": 15
-         },
-         "encoding": {
-           "text": {"field": "Region", "aggregate": "count", "type": "quantitative"}
-         }
-       }]
+      }
      
-     }
+}
