@@ -71,7 +71,7 @@
      
        },
      
-       "color": {"field": "Region","scale":{"scheme": "tableau20"},"legend":null},
+       "color": {"field": "Continent","scale":{"scheme": "tableau20"},"legend":null},
      
        "tooltip": [
              {"field": "Continent", "type": "nominal"},
