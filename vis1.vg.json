@@ -70,7 +70,7 @@
          "sort": "-y"
      
        },
-       "color": {"field": "Region","aggregate": "count","scale":{"scheme": "oranges","reverse":true},"legend":{"title":"Number of Disasters"}},
+       "color": {"field": "Region","aggregate": "count","scale":{"scheme": "oranges","reverse":true},"legend":{"title":"Number of Disasters","orient":"top-right"}},
        "tooltip": [
              {"field": "Total Deaths", "aggregate": "sum","type": "nominal"},
              {"field": "Region", "aggregate": "count", "type": "quantitative"}
