@@ -1,7 +1,6 @@
 {
       "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-      "width": 428,
-      "height": 325,
+
       "title": "Recorded Natural Disasters in a given year",
      
       "data": {
