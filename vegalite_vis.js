@@ -8,8 +8,8 @@ vegaEmbed("#map", vg_2).then(function(result) {
  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
-var vg_3 = "vis2.vg.json";
-vegaEmbed("#vis2", vg_3).then(function(result) {
+var vg_3 = "map2.vg.json";
+vegaEmbed("#map2", vg_3).then(function(result) {
  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
