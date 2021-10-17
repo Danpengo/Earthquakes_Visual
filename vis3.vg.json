@@ -3,6 +3,7 @@
 
       "title": "Recorded Natural Disasters in a given year",
       "width": "container",
+      "height": 600,
       "data": {
       "url": "https://raw.githubusercontent.com/Danpengo/HW10/main/Vis1.csv"
       },
