@@ -1,14 +1,40 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "title": "Amount of different types of disasters",
-"width": 289,
+
 "repeat": ["Total", "Epidemic", "Drought", "Wildfire", "Earthquake", "Volcanic activity","Flood","Storm"],
 "columns": 4,
-"spec": {
-"projection": {
-"type": "equalEarth"
-},
+      "params": [
+            {
+            "name" : "zoom_loc",
+            "value" : [38,[-115, 90]],
+            "bind" : {
+            "name" : "Look at ",
+            "input" : "select",
+            "options" : [
+            [38,[-115, 90]],
+            [150, [-135, 70]],
+            [150, [-107, 20]],
+            [230, [-15, 80]],
+            [150, [-20, 40]],
+            [120, [55, 85]],
+            [255, [26, 45]],
+            [157, [113, 15]]],
+            "labels": [
+            "All Regions",
+            "North America",
+            "South America",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Middle East",
+            "Oceania"]}}
+        ],
 
+"spec": {
+      "projection": {
+            "type": "equirectangular","center": {"expr": "zoom_loc[1]"}, "scale":  {"expr": "zoom_loc[0]"} 
+            },
 "layer": [
 {
 "data": {
@@ -35,8 +61,6 @@
         "url":"https://raw.githubusercontent.com/Danpengo/FIT3179_ASGN2/main/data/110m.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
         },
-        
-        "projection": {"type": "equalEarth"},   
 
         
             "transform": [
